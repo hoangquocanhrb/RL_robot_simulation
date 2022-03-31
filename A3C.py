@@ -2,7 +2,7 @@ import gym
 import torch as T
 import torch.multiprocessing as mp
 import torch.nn as nn
-import torch.nn.functional as F
+import torch.nn.functional as F 
 from torch.distributions import Categorical
 from torch.autograd import Variable
 from my_env import RoomMap, NUM_INPUTS, NUM_OUTPUTS
