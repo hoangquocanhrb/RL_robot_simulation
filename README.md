@@ -13,6 +13,10 @@ Mô phỏng robot tìm đường đến đích bằng phương pháp học sâu 
 git clone https://github.com/hoangquocanh/RL_robot_simulation
 cd RL_robot_simulation
 
+# Detail
+
+Dự án sử dụng thuật toán A3C (Asynchronous Advantage Actor Critic) và A2C (Advantage Actor Critic) để huấn luyện robot tìm đường tới vị trí mong muốn trong môi trường tĩnh.
+Đầu vào là giá trị đo được từ lidar và trạng thái robot hiện tại, đầu ra là hành động của robot. 
 # Usage
 
 Chạy mô hình A2C: python3 A2C.py
