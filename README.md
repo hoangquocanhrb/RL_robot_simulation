@@ -11,6 +11,7 @@ Mô phỏng robot tìm đường đến đích bằng phương pháp học sâu 
 # Installation
 
 git clone https://github.com/hoangquocanh/RL_robot_simulation
+
 cd RL_robot_simulation
 
 # Detail
